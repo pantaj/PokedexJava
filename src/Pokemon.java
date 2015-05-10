@@ -13,4 +13,6 @@ public class Pokemon {
     public int evolution_chain_id = 0;
     public String species ="";
     public String color ="";
+    public int weight = 0;
+    public int height = 0;
 }
